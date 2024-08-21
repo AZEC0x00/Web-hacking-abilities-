@@ -5,7 +5,7 @@ ActiveScan++
 https://github.com/vulnersCom/burp-vulners-scanner
 https://github.com/vsec7/BurpSuite-Xkeys
 https://github.com/boy-hack/wooyun-payload/tree/master
-
+https://github.com/TheKingOfDuck/burpFakeIP
 
 
 
