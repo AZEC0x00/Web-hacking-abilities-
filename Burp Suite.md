@@ -10,7 +10,7 @@ https://github.com/d3vilbug/HackBar
 https://github.com/vaycore/OneScan
 https://github.com/d3mondev/burp-vps-proxy
 https://github.com/depycode/burpsuite_hack
-
+https://github.com/S9MF/sql-sup
 
 
 
