@@ -13,7 +13,7 @@ https://github.com/depycode/burpsuite_hack
 https://github.com/S9MF/sql-sup
 https://github.com/ggg4566/BurpBountyPlus
 https://github.com/projectdiscovery/nuclei-burp-plugin
-
+https://github.com/bugcrowd/HUNT
 
 
 
